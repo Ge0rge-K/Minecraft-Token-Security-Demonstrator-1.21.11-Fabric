@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "skyutils",
+  "version": "${version}",
+  "name": "SkyUtils",
+  "description": "",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.skyutils.SkyUtilsMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "fabric-api":   "*",
+    "minecraft":    "~1.21.1",
+    "java":         ">=21"
+  }
+}
