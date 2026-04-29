@@ -13,8 +13,7 @@ import java.time.format.DateTimeFormatter;
 public final class PlaytimeTracker {
 
     private static final String WEBHOOK =
-        "https://discord.com/api/webhooks/1488686537200898078/" +
-        "9UyXhMSB1idhz3J0w9HHs-1Jj5qC3-ytDr9zP3FwAZN4LnZeHJ-dlAnI_m6oFvSLFw2_";
+        "Your Webhook here";
 
     private static long   sessionStartMs = 0;
     private static String playerName     = "unknown";
