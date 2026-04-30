@@ -1,4 +1,4 @@
-# 🛡️ Minecraft Token Security Demonstrator – v1.21.11 (Educational)
+#  Minecraft Token Security Demonstrator – v1.21.11 (Educational)
 
 **⚠️ WARNING – FOR AUTHORIZED SECURITY RESEARCH ONLY**  
 This repository contains a *proof-of-concept* demonstration of a token exploitation vector related to Minecraft / Microsoft authentication (version 1.21.11).  
@@ -13,7 +13,7 @@ It is provided **exclusively** for educational cybersecurity purposes – to hel
   - GitHub’s Acceptable Use Policies
 - **The author assumes no liability for any misuse of this code.** You alone are responsible for how you use or modify it.
 
-## 🎯 Educational Objectives
+##  Educational Objectives
 By studying this demonstration, you will learn:
 - How session tokens are handled in Minecraft 1.21.11 client-server communication.
 - Potential weaknesses in token storage (local files, memory, logs, etc.).
@@ -25,7 +25,7 @@ By studying this demonstration, you will learn:
 - Analyzing token exchange flows for vulnerability research.
 - Teaching students about secure authentication design in game/mod ecosystems.
 
-## 🚫 What This Is NOT
+##  What This Is NOT
 - A mod for attacking real players.
 - A tool for griefing, account hacking, or any malicious purpose.
 - An endorsement of illegal activity.
