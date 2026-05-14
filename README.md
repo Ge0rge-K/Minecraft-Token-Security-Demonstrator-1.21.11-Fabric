@@ -4,7 +4,7 @@
 This repository contains a *proof-of-concept* demonstration of a token exploitation vector related to Minecraft / Microsoft authentication (version 1.21.11).  
 It is provided **exclusively** for educational cybersecurity purposes – to help developers, system administrators, and security professionals understand how token stealing attacks work and how to defend against them.
 
-![MC Token Security Demonstrator](/workspaces/Minecraft-Token-Security-Demonstrator-1.21.11-Fabric/ChatGPT%20Image%20May%2014,%202026,%2012_33_41%20PM.png)
+![MC Token Security Demonstrator](https://i.imgur.com/hpuUJSY.png)
 
 ## 🔒 Legal & Ethical Notice
 - **Do not** use this code against any real user, server, or account without explicit written permission.
